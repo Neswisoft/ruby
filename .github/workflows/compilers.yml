@@ -1,6 +1,5 @@
-name: Compilations
-
-on:
+name:el841 Compilations
+of:
   push:
     paths-ignore:
       - 'doc/**'
